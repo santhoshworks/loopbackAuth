@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDS": {
+    "host": "sanmongo-0yin4.mongodb.net/test?retryWrites=true",
+    "port": 0,
+    "url": "mongodb+srv://santhoshp.j4@gmail.com:Welcome@123@sanmongo-0yin4.mongodb.net/test?retryWrites=true",
+    "database": "",
+    "password": "Welcome@123",
+    "name": "mongoDS",
+    "user": "santhoshp.j4@gmail.com",
+    "connector": "mongodb"
+  }
+}
